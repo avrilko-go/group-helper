@@ -1,7 +1,7 @@
 import { createBrowserRouter, Navigate, RouteObject } from 'react-router-dom'
-import Login from '../views/login'
+import Login from '../views/Login'
 import MyLayout from '../layout'
-import Account from '../views/account'
+import Account from '../views/Account'
 
 const router: RouteObject[] = [
   {
